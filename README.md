@@ -23,13 +23,16 @@ The goal was to replicate how real production servers handle web apps, database 
 ## 🖼️ Screenshot Gallery
 
 📌 **Screenshot Placeholder:** Output of `systemctl list-units --type=service | grep flask_app`
+
 <img width="432" height="152" alt="listunits" src="https://github.com/user-attachments/assets/add76cee-2ce8-49a7-8197-06aaac53386a" />
 
 📌 **Screenshot Placeholder:** Browser displaying “Hello from Flask via systemd!”
+
 <img width="265" height="36" alt="flask thanks" src="https://github.com/user-attachments/assets/643a99f0-95e0-4238-b39e-a55ee8ea0917" />
 
 
 📌 **Screenshot Placeholder:** Output of `systemctl list-timers | grep health_check`
+
 <img width="523" height="27" alt="health check" src="https://github.com/user-attachments/assets/0d71ad08-ebd2-4c06-a2aa-7c4a09471526" />
 
 
